@@ -1,0 +1,23 @@
+{
+  "name": "phototweetingbot-node_rpi",
+  "version": "1.0.0",
+  "description": "Buiding a simple Twitter Bot using Node js and running on Raspberry PI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillNyeAG/PhotoTweetingBot-Node_RPi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillNyeAG/PhotoTweetingBot-Node_RPi/issues"
+  },
+  "homepage": "https://github.com/WillNyeAG/PhotoTweetingBot-Node_RPi#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
